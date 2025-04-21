@@ -26,7 +26,7 @@
 - **State Management:** React Context API  
 - **Styling:** Tailwind CSS  
 - **Version Control:** Git & GitHub  
-- **API Source:** Mock API (MockAPI / JSONPlaceholder)  
+- **API Source:** TMDB API  
 
 ---
 
